@@ -1,0 +1,32 @@
+.main-body {
+	margin-top: 80px;
+	margin: 15px;
+}
+
+.main-body .hero {
+	text-align: center;
+	font-size: 2em;
+	margin-bottom: 25px;
+}
+
+
+.main-body button.load i {
+	margin-right: 2%;
+}
+
+.main-body button.load:hover {
+	background: #364f8f; 
+}
+
+
+.main-body button.load {
+	text-align: center;
+	margin: 0;
+	border: 0;
+	width: 50%;
+	padding: 15px 0px;
+	color: #ffffff;
+	font-size: 1.1em;
+	font-family: 'Open Sans Bold';
+	background: #3f5ca8;
+}

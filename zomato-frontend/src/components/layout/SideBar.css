@@ -1,0 +1,61 @@
+.sideBar {
+	width: 30%;
+	min-width: 300px;
+	max-width: 400px;
+	height: 100%;
+	right: 0;
+	top: 0;
+	position: fixed;
+	overflow-y: scroll;
+	z-index: 1000;
+	text-align: left;
+	padding: 30px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+	transition: all 0.5s;
+	border-bottom: 15px;
+}
+
+.sideBar h1 {
+	margin-bottom: 30px;
+}
+
+.sideBar h1 i {
+	margin-right: 24px;
+}
+
+.sideBar img {
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.sideBar h3 {
+	margin-top: 30px;
+}
+
+.sideBar .info, .sideBar .dishes {
+	display: table;
+}
+
+.sideBar .dishes {
+	border-bottom: 50px solid transparent;
+}
+
+.sideBar .info .info-row, .dish-row {
+	display: table-row;
+}
+
+.sideBar .info .icon {
+	display: table-cell;
+	border-right: 8px solid transparent;
+}
+
+.sideBar .info .value,  .dish-name, .dish-price {
+	display: table-cell;
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+}
+
+.sideBar .loading {
+	width: 100%;
+	text-align: center;
+}

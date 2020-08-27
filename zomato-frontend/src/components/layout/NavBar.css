@@ -1,0 +1,57 @@
+::placeholder {
+	color: rgb(127, 127, 127);
+}
+
+.nav-container {
+	position: sticky;
+	top: 0;
+	z-index: 5;
+	min-height: 10vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.nav-container .logo {
+	display: table-cell;
+	font-size: 1.8em;
+	width: 10%;
+	vertical-align: middle;
+}
+
+.nav-container .search-wrapper i {
+	display: inline-block;
+	margin-left: 5px;
+	vertical-align: middle;
+}
+
+.nav-container .search-wrapper {
+	transition: max-width 2s;
+	border-radius: 15px;
+	border: 2px solid #fff;
+	height: 30px;
+}
+
+.nav-container .search-wrapper .search:focus {
+	min-width: 300px;
+}
+
+.nav-container .search-wrapper .search {
+	padding: 8px 15px;
+	background: inherit;
+	color: inherit;
+	text-align: center;
+	border: 0;
+	letter-spacing: 0.1em;
+}
+
+.nav-container .search:focus {
+	outline: none;
+}
+
+.fa-moon, .fa-sun {
+	margin-right: 10px;
+	font-size: 1.3em;
+}

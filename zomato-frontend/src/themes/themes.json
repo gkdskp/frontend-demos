@@ -1,0 +1,32 @@
+{
+	"light": {
+		"primary-bg": "#ffffff",
+		"primary-fg": "#000000",
+		"border": "#121212",
+		"primary-color": "#7289da",
+		"primary-caption": "red",
+		"nav-bg": "#dcd8d5",
+		"side-bg": "#f8f9fa",
+		"nav-color": "#000",
+		"alert-color": "red",
+		"secondary-caption": "#333",
+		"card-border": "1px solid #ffffff",
+		"card-hover-border": "1px solid #000"
+	},
+
+	"dark": {
+		"primary-bg": "#2e2e2e",
+		"primary-fg": "#ffffff",
+		"border": "#121212",
+		"primary-color": "#7289da",
+		"primary-caption": "orange",
+		"nav-bg": "#23272a",
+		"side-bg": "#343a40",
+		"nav-color": "#fff",
+		"secondary-caption": "#eee",
+		"alert-color": "orange",
+		"card-border": "1px solid #2e2e2e",
+		"card-hover-border": "1px solid #fff"
+	}
+	
+}

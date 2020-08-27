@@ -1,0 +1,37 @@
+.list-body {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.items-wrapper {
+	padding-top: 30px;
+	text-align: center;
+}
+
+.list-body button {
+	background: inherit;
+	border: none;
+	color: inherit;
+	font-size: inherit;
+	letter-spacing: inherit;
+	text-transform: inherit;
+}
+
+.list-body button:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.list-body button:focus {
+	outline: none;
+}
+
+.list-body .list-control {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.list-body .list-control button i {
+	margin-left: 2px;
+}
