@@ -1,7 +1,8 @@
 {
-  "name": "tailwindcss-react-boilerplat",
+  "name": "websales-demo",
   "version": "0.1.0",
-  "private": true,
+  "homepage": ".",
+  "private": false,
   "dependencies": {
     "react": "^16.8",
     "react-dom": "^16.8",

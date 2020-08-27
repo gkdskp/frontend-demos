@@ -2,10 +2,55 @@
 <html lang="">
   <head>
     <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            padding: 0;
+            margin: 0;
+            font-family: 'Karla';
+        }
+        a {
+          text-decoration: none;
+          color: inherit;
+        }
+        .flex-items {
+            width: 444px;
+            min-height: 113px;
+            margin: 15px;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            padding: 15px;
+            transition: all .4s;
+            cursor: pointer;
+        }
+        .flex-items:hover{
+            transform: scale(1.05);
+            border: 1px solid blueviolet;
+            color: blueviolet;
+        }
+        .flex-items:hover h3 {
+          text-decoration: underline;
+        }
+        .flex-items h3 {
+          color: blueviolet;
+        }
+    </style>
     <title></title>
   </head>
   <body>
-    <a href="websales-demo">Websales</a>
-    <a href="zomato-frontend">Zomato-frontend</a>
+    <a href="zomato-frontend/"><div class="flex-items">
+        <h3>Zomato Frontend</h3>
+        <p>A React App that lists all the hotels in a given location</p>
+    </div></a>
+    <a href="websales-demo/"><div class="flex-items">
+        <h3>Websales Demo</h3>
+        <p>A webpage concept made using tailwindcss (Currently not responsive)</p>
+    </div></a>
   </body>
 </html>

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zomato-frontend/static/css/main.c1b1f5e6.chunk.css",
-    "main.js": "/zomato-frontend/static/js/main.58f806ef.chunk.js",
-    "main.js.map": "/zomato-frontend/static/js/main.58f806ef.chunk.js.map",
-    "runtime-main.js": "/zomato-frontend/static/js/runtime-main.8e784e5f.js",
-    "runtime-main.js.map": "/zomato-frontend/static/js/runtime-main.8e784e5f.js.map",
-    "static/js/2.4d84bb03.chunk.js": "/zomato-frontend/static/js/2.4d84bb03.chunk.js",
-    "static/js/2.4d84bb03.chunk.js.map": "/zomato-frontend/static/js/2.4d84bb03.chunk.js.map",
-    "index.html": "/zomato-frontend/index.html",
-    "precache-manifest.ed5925085c356ce9f3d393ea9645664d.js": "/zomato-frontend/precache-manifest.ed5925085c356ce9f3d393ea9645664d.js",
-    "service-worker.js": "/zomato-frontend/service-worker.js",
-    "static/css/main.c1b1f5e6.chunk.css.map": "/zomato-frontend/static/css/main.c1b1f5e6.chunk.css.map",
-    "static/js/2.4d84bb03.chunk.js.LICENSE.txt": "/zomato-frontend/static/js/2.4d84bb03.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.bdae9e92.chunk.css",
+    "main.js": "./static/js/main.5cf0666c.chunk.js",
+    "main.js.map": "./static/js/main.5cf0666c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.da9f6b3f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.da9f6b3f.js.map",
+    "static/js/2.ecb96d88.chunk.js": "./static/js/2.ecb96d88.chunk.js",
+    "static/js/2.ecb96d88.chunk.js.map": "./static/js/2.ecb96d88.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.853abac5482b0260ed36283df22f4b50.js": "./precache-manifest.853abac5482b0260ed36283df22f4b50.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.bdae9e92.chunk.css.map": "./static/css/main.bdae9e92.chunk.css.map",
+    "static/js/2.ecb96d88.chunk.js.LICENSE.txt": "./static/js/2.ecb96d88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e784e5f.js",
-    "static/js/2.4d84bb03.chunk.js",
-    "static/css/main.c1b1f5e6.chunk.css",
-    "static/js/main.58f806ef.chunk.js"
+    "static/js/runtime-main.da9f6b3f.js",
+    "static/js/2.ecb96d88.chunk.js",
+    "static/css/main.bdae9e92.chunk.css",
+    "static/js/main.5cf0666c.chunk.js"
   ]
 }

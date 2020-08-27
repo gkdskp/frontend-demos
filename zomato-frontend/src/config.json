@@ -1,4 +1,4 @@
 {
 	"API_URL": "https://developers.zomato.com/api/v2.1/",
-	"API_KEY": ""
+	"API_KEY": "YOUR API KEY HERE"
 }
